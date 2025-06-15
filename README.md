@@ -10,3 +10,5 @@
 
 自主部署的vue-vben-admin文档地址：https://vben-admin-docs.vercel.app/，这是为了防止该开源项目随时间更新后与当前版本文档不一致的问题
 
+> **项目瘦身指南**参考：https://vben-admin-docs.vercel.app/guide/introduction/thin.html
+
